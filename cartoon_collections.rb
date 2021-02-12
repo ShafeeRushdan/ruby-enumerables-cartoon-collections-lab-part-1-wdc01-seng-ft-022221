@@ -12,7 +12,7 @@ end
 
 def list_dwarves(array)
   
- array.each_with_index do |bibble|.each
+ array.each_with_index do |bibble|
     
 puts bibble  
 end
