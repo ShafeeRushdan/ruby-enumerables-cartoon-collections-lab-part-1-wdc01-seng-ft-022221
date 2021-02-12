@@ -21,9 +21,9 @@ def list_dwarves(array)
     
  #binding.pry
     
-    "#{index + 1}. #{bibble}"
+  puts  "#{index + 1}. #{bibble}"
     
-puts bibble
+
 end
 
 end
