@@ -16,3 +16,5 @@ def list_dwarves(array)
     
 puts "This is bibble:  #{bibble} This is index #{index}"
 end
+
+end
