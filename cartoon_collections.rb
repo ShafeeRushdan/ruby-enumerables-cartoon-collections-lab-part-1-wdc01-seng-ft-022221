@@ -1,3 +1,6 @@
+require "pry"
+
+
 def greet_characters(array)
   
   array.each do |element|
@@ -14,11 +17,11 @@ def list_dwarves(array)
   
  array.each_with_index do |bibble,index|
     
-index += 1 
+
+    binding.pry 
     
     
-    
-puts "This is bibble:  #{bibble} This is index #{index}"
+puts bibble
 end
 
 end
