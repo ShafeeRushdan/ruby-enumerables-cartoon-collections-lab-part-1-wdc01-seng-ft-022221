@@ -19,7 +19,7 @@ def list_dwarves(array)
   
  array.each_with_index do |bibble,index|
     
- binding.pry
+ #binding.pry
     
     "#{index + 1}. #{bibble}"
     
