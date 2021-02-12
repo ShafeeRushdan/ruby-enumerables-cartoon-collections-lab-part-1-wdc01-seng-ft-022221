@@ -16,7 +16,7 @@ def list_dwarves(array)
 
  index: 0 for 1 
  index: 1 for 2 
-
+end
 
 puts bibble  
 
