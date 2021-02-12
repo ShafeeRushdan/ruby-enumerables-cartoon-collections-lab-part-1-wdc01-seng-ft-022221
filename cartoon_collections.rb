@@ -14,7 +14,7 @@ def list_dwarves(array)
   
  array.each_with_index do |bibble,index|
     
-puts "bibble"  
+puts bibble.String  
 end
   
   # Use `each_with_index` to enumerate over the provided array
