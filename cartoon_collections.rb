@@ -12,12 +12,9 @@ end
 
 def list_dwarves(array)
   
- array.each_with_index do |bibble.count|
-
-
-
+ array.each_with_index do |bibble|
+    
 puts bibble  
-
 end
   
   # Use `each_with_index` to enumerate over the provided array
