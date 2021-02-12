@@ -13,7 +13,11 @@ end
 def list_dwarves(array)
   
  array.each_with_index do |bibble,index|
-    index
+    
+    
+    
+    
+    
 puts "This is bibble:  #{bibble} This is index #{index}"
 end
 
