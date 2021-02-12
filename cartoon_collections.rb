@@ -21,7 +21,7 @@ def list_dwarves(array)
     
  binding.pry
     
-    
+    "#{index + 1}"
     
 puts bibble
 end
