@@ -14,8 +14,7 @@ def list_dwarves(array)
   
  array.each_with_index do |bibble.count|
 
- index: 0 for 1 
- index: 1 for 2 
+
 end
 
 puts bibble  
